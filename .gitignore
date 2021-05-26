@@ -18,8 +18,6 @@ target/
 *.iws
 *.iml
 *.ipr
-Dockerfile
-entrypoint.sh
 
 ### NetBeans ###
 /nbproject/private/
